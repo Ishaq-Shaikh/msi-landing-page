@@ -1,12 +1,38 @@
-# React + Vite
+# MSI Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple landing page built with **React** and **Vite**, featuring an image slider powered by **Swiper.js**.  
+Currently, this project is designed for desktop screens and is **not responsive** for mobile or tablet devices.  
 
-Currently, two official plugins are available:
+🔗 Live Demo: [msi-landing-page.vercel.app](https://msi-landing-page.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** – Component-based UI
+- **Vite** – Fast build tool and dev server
+- **Swiper.js** – Modern touch slider (used for the first time in this project 🎉)
+- **CSS** – Custom styling for layout
+
+---
+
+## 📌 Features
+
+- Clean desktop landing page layout
+- **Swiper.js slider** for interactive banners/sections
+- Hosted on **Vercel** for instant deployment
+
+---
+
+## 💻 Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Ishaq-Shaikh/msi-landing-page.git
+cd msi-landing-page
+
+---
+
+© 2025 Ishaq Shaikh.  
+This project is made for educational and practice purposes.  
+All images, logos, and assets belong to their respective owners.
