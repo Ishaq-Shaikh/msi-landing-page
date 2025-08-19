@@ -24,15 +24,6 @@ Currently, this project is designed for desktop screens and is **not responsive*
 
 ---
 
-## 💻 Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Ishaq-Shaikh/msi-landing-page.git
-cd msi-landing-page
-
----
-
 © 2025 Ishaq Shaikh.  
 This project is made for educational and practice purposes.  
 All images, logos, and assets belong to their respective owners.
